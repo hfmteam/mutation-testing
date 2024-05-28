@@ -38,5 +38,28 @@ public class TestStockService {
         });
     }
 
+    @DisplayName("Test add stock2")
+    @Test
+    public void testAdd2() {
+        StockService obj = new StockService(50);
+        assertEquals(100, obj.add(50));
+        assertEquals(50, obj.add(0));
+
+        Assertions.assertThrows(IllegalArgumentException.class, () -> {
+            obj.add(-1);
+        });
+    }
+    @DisplayName("Test deduct stock")
+    @Test
+    public void testDeduct1() {
+        StockService obj = new StockService(10);
+        assertEquals(5, obj.deduct(5));
+        assertEquals(8, obj.deduct(2));
+
+        Assertions.assertThrows(IllegalArgumentException.class, () -> {
+            obj.add(-1);
+        });
+    }
+
 
 }
