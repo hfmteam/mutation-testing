@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/java-multi-modules/password-md5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-multi-modules/password-md5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-multi-modules/password-sha/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-multi-modules/password-sha/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-multi-modules/password/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-multi-modules/password/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-multi-modules/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-multi-modules/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-multi-modules/web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-multi-modules/web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-project/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-web-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-web-project/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-code-coverage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-code-coverage/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-mutation-testing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-mutation-testing/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-profiles/example1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-profiles/example1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-profiles/example2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-profiles/example2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-profiles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-profiles/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-static-code-analysis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-static-code-analysis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-unit-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-unit-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
